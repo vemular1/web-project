@@ -19,3 +19,5 @@ This is Deployment stage
 # Copyright
 
 @Copyright 2017
+
+This is test text
