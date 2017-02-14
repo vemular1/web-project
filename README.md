@@ -23,3 +23,5 @@ This is Deployment stage
 This is test text
 
 More changes
+
+All rights reserved
